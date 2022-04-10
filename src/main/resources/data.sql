@@ -1,0 +1,4 @@
+INSERT INTO PRICES VALUES (1, 1, 'EUR', parsedatetime('2020-12-31 23:59:59', 'yyyy-MM-dd hh:mm:ss'), 35.50, 1, 0, 35455, parsedatetime('2020-06-14 00:00:00', 'yyyy-MM-dd hh:mm:ss'));
+INSERT INTO PRICES VALUES (2, 1, 'EUR', parsedatetime('2020-06-14 18:30:00', 'yyyy-MM-dd hh:mm:ss'), 25.45, 2, 1, 35455, parsedatetime('2020-06-14 15:00:00', 'yyyy-MM-dd hh:mm:ss'));
+INSERT INTO PRICES VALUES (3, 1, 'EUR', parsedatetime('2020-12-31 23:59:59', 'yyyy-MM-dd hh:mm:ss'), 30.50, 3, 1, 35455, parsedatetime('2020-06-15 00:00:00', 'yyyy-MM-dd hh:mm:ss'));
+INSERT INTO PRICES VALUES (4, 1, 'EUR', parsedatetime('2020-12-31 23:59:59', 'yyyy-MM-dd hh:mm:ss'), 38.95, 4, 1, 35455, parsedatetime('2020-06-15 16:00:00', 'yyyy-MM-dd hh:mm:ss'));
